@@ -1,7 +1,7 @@
 # Projeto-Java-AngularJS-1.6
 > Projeto baseado num e-commerce de uma loja de livros feito em Java como o Front-End utilizando AngularJS 1.6
 
-<p align="center"><a href=""><img src="https://i.picasion.com/pic91/cf04c29db9dd099c58d381c3e1c4a906.gif" width="400" height="292" border="0" alt="https://picasion.com/"/></p>
+<p align="center"><img src="https://i.picasion.com/pic91/16f320ea6ee4e4e69b28a0f1fefb5683.gif" width="430" height="300" border="1" alt="https://picasion.com/"/></a><br /><a href="https://picasion.com/"></p>
 
 ### Ajustes e melhorias
 
